@@ -1,4 +1,4 @@
-import { input, inputNumber, print, reverseDigits } from "./io_utils.js";
+import { input, inputNumber, print, reverseDigits } from "../io_utils.js";
 
 
 const quests = {

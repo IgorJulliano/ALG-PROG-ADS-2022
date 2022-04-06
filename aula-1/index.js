@@ -1,4 +1,4 @@
-import "./io_utils.js"
+import { input, print } from "../io_utils.js";
 
 const initial = 1
 let usrInput = Number(input("Insira um número: "))
