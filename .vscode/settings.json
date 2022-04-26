@@ -1,0 +1,11 @@
+{
+    "editor.fontFamily": "'Cascadia Code PL', 'MesloLGS NF', 'Droid Sans Mono', monospace",
+    "editor.fontLigatures": true,
+    "dart.lineLength": 120,
+    "editor.formatOnType": false,
+    "editor.formatOnSave": false,
+    "[dart]": {
+        "editor.formatOnType": false,
+        "editor.formatOnSave": false
+    },
+}
