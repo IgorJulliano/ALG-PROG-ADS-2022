@@ -1,5 +1,4 @@
-import '../bee_crowd/problems_dart/bee_1118.dart';
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   var dataInput = input("Insira uma data (DD/MM/AAAA) -> ").split("/");

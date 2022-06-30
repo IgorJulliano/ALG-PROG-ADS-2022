@@ -1,8 +1,5 @@
-import 'dart:ffi';
-import 'dart:js';
 
-import '../io_utils.dart';
-import 'dart:math' as math;
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   var numero = getNumber("um numero de três digitos -> ").toInt();
@@ -75,6 +72,5 @@ String nomeAlgarismo(int num){
 
 bool ehNumero(String caractere){
   var nomes = ['0','1','2','3','4','5','6','7','8','9'];
-  var numeros = Array(nomes.length);
   return nomes.contains(caractere);
 }
