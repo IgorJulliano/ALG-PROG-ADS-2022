@@ -1,7 +1,6 @@
 import 'dart:math';
 
-import '../io_utils.dart';
-import '../listas-fabio/lista-fabio-2/q13.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   var entrada;
