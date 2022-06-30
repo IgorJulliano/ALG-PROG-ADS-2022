@@ -1,6 +1,6 @@
 // Leia 1 numero entre 0 e 100,verifique se o numero é ou não primo
 
-import "../io_utils.dart";
+import "../../io_utils.dart";
 
 void main() {
   var number = int.parse(input("Insira um numero de 0 a 100: "));

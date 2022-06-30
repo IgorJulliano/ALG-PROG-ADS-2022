@@ -1,6 +1,6 @@
 // leia uma data e verifique, escreva se a data é ou não válida
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(){
   var entrada = input("insira um data dd/mm/aaaa: ").split("/")

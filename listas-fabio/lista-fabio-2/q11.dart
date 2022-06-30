@@ -2,7 +2,7 @@
 // se aopção for 1, valor de num2 se a opção for 2 e o valor de num3 se a opção
 // for 3
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(){
   var num1 = int.parse(input("Insira um numero: "));

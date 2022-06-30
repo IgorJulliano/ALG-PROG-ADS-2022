@@ -1,7 +1,7 @@
 // Leia as coordenadas catesianas de dois pontos no plano que representam o
 // canto de um retangulo. Baseado nisto, calcule e escreva a area desse retangulo
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   var coord1 = input("Insira uma coordenada  cartesiana x,y (ex.: '2,3'): ")

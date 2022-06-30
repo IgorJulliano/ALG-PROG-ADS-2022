@@ -1,4 +1,4 @@
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 // Leia uma lista de números e que para cada número lido, escreva o próprio número e a relação de seus
 // divisores (flag = 0).

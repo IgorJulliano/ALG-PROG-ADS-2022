@@ -2,7 +2,7 @@
 
 import 'dart:ffi';
 import 'dart:io';
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(){
     var number = int.parse(input("Insira um numero de dois digitos: "));

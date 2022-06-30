@@ -1,5 +1,5 @@
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   var hora1 = input("Insira o horario de inicio (hh:mm): ");

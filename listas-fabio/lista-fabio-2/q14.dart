@@ -1,6 +1,6 @@
 // Leia 5 numeros inteiros, calcule a sua media e escreva os que são maiores que a média
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main() {
   var entrada = input("Insira 5 numeros: ").split(" ")

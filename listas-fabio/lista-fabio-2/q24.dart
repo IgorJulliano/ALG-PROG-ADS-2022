@@ -3,7 +3,7 @@
 
 import 'dart:math';
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   double a = double.parse(input("Insira o coeficiente A: "));

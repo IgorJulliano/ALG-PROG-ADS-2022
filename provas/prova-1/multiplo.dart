@@ -1,5 +1,5 @@
 import 'dart:math';
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
 
@@ -8,7 +8,7 @@ void main(List<String> args) {
 
   var listaint = [num1, num2];
   
-  while (maior(num1, num2) % menor(num1, num2) != 0) {
+  while (max(num1, num2) % min(num1, num2) != 0) {
     num1 = num2;
     num2 = getNumber("Digite um numero: ");
 

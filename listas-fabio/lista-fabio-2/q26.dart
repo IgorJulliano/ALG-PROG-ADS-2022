@@ -1,7 +1,7 @@
 // Leia os 3 lados de um triangulo e identifique sua hipotenusa e seus cateteto
 
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   var lados = input("Insira os 3 lados de um triangulo.").split(" ").map((e) => double.parse(e)).toList();

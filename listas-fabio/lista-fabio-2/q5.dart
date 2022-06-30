@@ -1,6 +1,6 @@
 // Leia 3 numeros e escreva-os em ordem crescente.
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main() {
   var entrada = input("Insira 3 numeros (ex.: '5 0 3'): ").split(" ")

@@ -1,4 +1,4 @@
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main() {
   var dividendo = getNumber("Insira o dividendo -> "); // 10

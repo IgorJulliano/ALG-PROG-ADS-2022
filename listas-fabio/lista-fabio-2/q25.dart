@@ -3,7 +3,7 @@
 // O algoritimo deve escrever uma mensagem de permissão de acesso ou não.
 
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   var login = input("Insira a senha: ");

@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import './str_utils.dart';
-import '../io_utils.dart';
+import '../../io_utils.dart';
 import 'questoes.dart';
 
 void main(List<String> args) {

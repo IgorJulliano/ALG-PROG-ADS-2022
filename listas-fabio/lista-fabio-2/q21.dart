@@ -1,7 +1,7 @@
 // Realize o arredondamentos de dnumeros utilizando a regra usual da matematica:
 // Se a parte fracionária for maior ou igual que 0,5, o numero é arredondado pra cima
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   var numero = double.parse(input("Insira um numero decimal: "));

@@ -5,7 +5,7 @@
 // deve escrever "Repreovado".
 
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   const MEDIA_GERAL = 7.0;

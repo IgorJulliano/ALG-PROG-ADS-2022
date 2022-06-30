@@ -8,7 +8,7 @@
 
 
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   int num1 = int.parse(input("Insira um numero: "));

@@ -1,7 +1,7 @@
 // Um numero é um quadrado perfeito quando a raiz quadrada do numero é igual a
 // soma das dezenas formadas pelos seus dois primeiro e dois ultimos digitos
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   var numero = input("Insira um numero de 4 digitos: ");

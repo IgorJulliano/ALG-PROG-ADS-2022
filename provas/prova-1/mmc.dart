@@ -1,4 +1,4 @@
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   int numA = getNumber("Insira um numero inteiro: ").toInt();
@@ -10,9 +10,9 @@ void main(List<String> args) {
 }
 
 int calcularMMC(num numA, num numB){
-  int x = menor(numA, numB).toInt();
+  int x = min(numA, numB).toInt();
 
-  while (maior(numA, x) % menor(numA, x) != 0
-      || maior(numB, x) % menor(numB, x) != 0) x++;
+  while (max(numA, x) % min(numA, x) != 0
+      || max(numB, x) % min(numB, x) != 0) x++;
   return x;
 }

@@ -6,7 +6,7 @@
 // 4 - Divisão
 // Calcule e escreva o resultado dessa operação sobre os dois valores lidos
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
 

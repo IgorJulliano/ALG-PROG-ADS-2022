@@ -6,7 +6,7 @@
 
 import 'dart:ffi';
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   var entrada = input("Insira três numeros (angulos de um triangulo. Ex.: 60 90 30): ")

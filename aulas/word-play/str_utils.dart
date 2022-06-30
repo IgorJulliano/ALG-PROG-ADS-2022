@@ -1,5 +1,5 @@
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 bool isAbecedarian(String word){
 

@@ -4,7 +4,7 @@
 // obseso (IMC entre 25 e 30) ou
 // obesidade morbida (IMC acima de 30).
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   double altura = double.parse(input("Insira a altura (m): "));

@@ -1,6 +1,6 @@
 // Leia a medida de um angulo entre 0 e 360 graus e escreva o quadrante em que o angulo se localiza.
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   var angulo = double.parse(input("Insira um angulo em graus (0-360): "));

@@ -1,4 +1,4 @@
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main() {
   int q01 = input("Telefonou para vitima? (1)Sim ou (2)Não -> ")    == 1 ? 1 : 0;

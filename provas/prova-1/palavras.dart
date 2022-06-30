@@ -1,4 +1,4 @@
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   var inp = input("Insira uma frase com 80 a 180 caracteres: \n -> ");

@@ -1,4 +1,4 @@
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   int numA = getNumber("Insira um numero inteiro: ").toInt();

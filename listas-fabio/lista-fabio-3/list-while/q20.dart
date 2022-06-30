@@ -1,4 +1,4 @@
-import '../../io_utils.dart';
+import '../../../io_utils.dart';
 
 void main(List<String> args) {
   var numero = getNumber("Insira o numero de N -> ");

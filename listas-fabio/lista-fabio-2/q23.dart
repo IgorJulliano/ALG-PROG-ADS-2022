@@ -1,7 +1,7 @@
 // Leia 2 datas, cada uma composta por 3 variaveis inteiras (dia, mes e ano)
 // e escreva qual delas é mais recente
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main() {
   var dataHoje = input("Escreva a data de hoje (dd/mm/aaaa): ").split("/");

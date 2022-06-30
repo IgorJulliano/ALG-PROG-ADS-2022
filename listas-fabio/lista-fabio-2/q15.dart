@@ -1,7 +1,7 @@
 // Leia a quantidade de horas aula dadas por dois professores e o valor po hora
 // recebeido por cada um. Escreva na tela qual dos professores tem salario total maior.
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(List<String> args) {
   var nomeProf1 = input("Insira seu nome, professor: ");

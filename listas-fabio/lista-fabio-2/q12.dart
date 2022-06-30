@@ -1,6 +1,6 @@
 // leia um numero inteiro e escreva se este numero é par ou impar
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main(){
   var entrada = int.parse(input("Insira um numero: "));

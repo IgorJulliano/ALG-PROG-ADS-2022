@@ -1,6 +1,6 @@
 // leia 5 numeros inteiros e excreva o maior e o menor deles. Considere que todos os valores são diferentes.
 
-import '../io_utils.dart';
+import '../../io_utils.dart';
 
 void main() {
   var entrada = input("Insira 5 numeros: ").split(" ")
